@@ -1,0 +1,7 @@
+/*
+!.gitignore
+!wp-content/
+# macOS Files
+.DS_Store
+Thumbs.db
+.cache
