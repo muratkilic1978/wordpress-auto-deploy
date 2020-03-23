@@ -5,3 +5,5 @@
 .DS_Store
 Thumbs.db
 .cache
+wp-content/themes/twentytwenty/package-lock.json
+
